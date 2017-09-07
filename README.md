@@ -16,6 +16,6 @@ pwd=收银员01密码
 spname=门店管理员账号
 sppwd=门店密码
 https=0 走http通讯针对xp系统，https=1 走https通讯针对win7。  
-5，安装完，删除mpsse
+5，安装完，删除mpsset.exe
 
 本软件业余爱好研发，仅供学习交流，严禁用于商业用途，如有法律责任，自行承担。
